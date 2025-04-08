@@ -6,9 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "prepare": "npx husky-init && npm install",
+    "prepare": "npm install",
     "lint": "eslint .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "dependencies": {
     "next": "14.2.27",
