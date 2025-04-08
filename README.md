@@ -1,1 +1,1 @@
-# Setup eslint, prettier, prepush in NextJS@14
+# Setup eslint, prettier, precommit with husky in NextJS@14
